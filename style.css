@@ -67,6 +67,11 @@ footer {
     }
 }
 
+.menu-bars
+{
+    font-size: 2.5rem;;
+}
+
 /* margins / paddings / displays */
 body {
     padding: 0rem;
