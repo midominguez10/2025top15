@@ -1,0 +1,25 @@
+@media screen and (min-width: 481px) and (max-width:
+955px){
+    .albums {
+ grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    nav {
+    display: none;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .albums {
+    grid-template-columns: 1fr;
+    }
+    nav {
+    display: none;
+    }
+}
+
+@media screen and (min-width: 955px){
+    .menu-bars {
+        display: none;
+    }
+}
